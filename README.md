@@ -1,13 +1,3 @@
-
-- 👀 I’m interested in Data Engneering
-- 🌱 I’m currently learning Pyton
-- 💞️ I’m looking to collaborate on Data analysis projects
-- 
-- 📫 How to reach me at https://www.linkedin.com/in/girisudhan-soundarajan-780ba3187/
-- 
-
-
---->
 👋 Hi there! I'm Girisudhan, a dedicated Data Analyst with over 2 years of experience in transforming data into actionable insights.
 
 About Me
@@ -30,3 +20,4 @@ Get in Touch
 📫 Reach me at Girisudhan.soundararajn@gmail.com
 
 Feel free to explore my projects, provide feedback, and collaborate. Let's make data work for us! 🚀
+--->
