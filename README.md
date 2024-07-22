@@ -15,8 +15,11 @@ understand customer behavior, and improve business operations.
 
 
 Get in Touch
+
 💬 Connect with me on [LinkedIn: LinkedIn Profile](https://www.linkedin.com/in/girisudhan-soundarajan-780ba3187/)
+
 📫 Reach me at Girisudhan.soundararajn@gmail.com
+
 
 Feel free to explore my projects, provide feedback, and collaborate. Let's make data work for us! 🚀
 --->
