@@ -2,6 +2,7 @@
 
 About Me
 📈 Skilled in  SQL, Advanced Excel and power BI, I specialize in data analysis, visualization, and dashboard creation.
+
 🧐 I'm enthusiastic about problem-solving. 
 
 What You'll Find Here
