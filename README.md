@@ -6,15 +6,13 @@ About Me
 🧐 I'm enthusiastic about problem-solving. 
 
 What You'll Find Here
+
 📚 Projects: Explore my work in data analysis:
 
 Amazon Sales Analysis Project: we delve into analyzing sales
 data from Amazon to extract insights and trends that can help optimize sales strategies,
 understand customer behavior, and improve business operations.
 
-
-📜 Certifications: See my certifications, including Advanced Excel and Tableau.
-💼 Experience: Discover my professional journey in roles like Senior Counsellor at LCI International Group.
 
 Get in Touch
 💬 Connect with me on [LinkedIn: LinkedIn Profile](https://www.linkedin.com/in/girisudhan-soundarajan-780ba3187/)
